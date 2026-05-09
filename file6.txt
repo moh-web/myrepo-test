@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file6 is created 
 new line for testing
+=======
+ file6 is created by mohamed khairi
+>>>>>>> a825cb0f9b1a1e10b34261f55c72b7ab1d116e77
